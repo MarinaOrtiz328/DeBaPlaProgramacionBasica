@@ -1,5 +1,6 @@
 Tarea-2.2:
 
+Ana Marina Ortiz Ruiz 329577
 problemas de la tareas 2.2
 
 ------------Descripción de los problemas
